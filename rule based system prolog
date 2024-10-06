@@ -19,8 +19,6 @@ diagnose(cold):-
     symptom(sore_throat), 
     \+ symptom(fever). %Absence of fever 
  
-AAI Practical Gayatri Kulkarni -53004230002 MSCIT PART2 SEM III 
-16 | Page                  AAI PRACTICAL JOURNAL          2024 -25 
  
 diagnose(flu):- 
     symptom(fever), 
